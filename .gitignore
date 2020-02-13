@@ -1,0 +1,6 @@
+# Password files
+*.password
+*.data
+*.pkl
+*.csv
+.Rproj.user

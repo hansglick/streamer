@@ -1,0 +1,2 @@
+{'BatchDate': '2020-02-08 15:45:12', 'StartingDate': '2020-02-08 15:30:56', 'EndingDate': '2020-02-08 15:45:02', 'Delay': '0h14min', 'nRT': 7324, 'nInf': 1672, 'nFam': 2246, 'nUse': 5814}
+{'BatchDate': '2020-02-08 16:45:26', 'StartingDate': '2020-02-08 15:45:02', 'EndingDate': '2020-02-08 16:45:10', 'Delay': '1h0min', 'nRT': 33417, 'nInf': 4341, 'nFam': 6227, 'nUse': 24552}

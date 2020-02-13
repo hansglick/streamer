@@ -1,0 +1,9350 @@
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  46
+Nombre de tweets :  19504
+Nombre d'errors :  47
+
+Suppression des tweets déjà vus
+19551 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-10 21:54:03
+Date 1er retweet :  2020-02-10 21:34:03
+Date Dernier retweet :  2020-02-10 22:49:45
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  12
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  4893
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-10 22:34:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1030
+Nombre de tweets uniques :  1030
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  22
+Nombre de tweets :  9178
+Nombre d'errors :  23
+
+Suppression des tweets déjà vus
+9201 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-10 22:54:03
+Date 1er retweet :  2020-02-10 22:34:27
+Date Dernier retweet :  2020-02-10 23:16:50
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  5
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3822
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-10 22:59:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+Nombre graph rajoutés :  1
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  394
+Nombre de tweets uniques :  394
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  23
+Nombre de tweets :  9878
+Nombre d'errors :  24
+
+Suppression des tweets déjà vus
+9902 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 01:14:03
+Date 1er retweet :  2020-02-10 22:59:20
+Date Dernier retweet :  2020-02-10 23:45:03
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2929
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-10 23:04:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  394
+Nombre de tweets uniques :  394
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  20680
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+20730 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 01:14:03
+Date 1er retweet :  2020-02-10 23:04:15
+Date Dernier retweet :  2020-02-11 00:45:08
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2929
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+None
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  394
+Nombre de tweets uniques :  394
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  20967
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+21016 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 01:14:03
+Date 1er retweet :  2020-02-10 23:04:15
+Date Dernier retweet :  2020-02-11 01:44:29
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3499
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-10 23:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  946
+Nombre de tweets uniques :  946
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  5567
+Nombre de lignes rajoutées, statswords :  1512
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  21169
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+21219 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 03:14:03
+Date 1er retweet :  2020-02-10 23:14:10
+Date Dernier retweet :  2020-02-11 02:44:10
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3499
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-10 23:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  946
+Nombre de tweets uniques :  946
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  50
+Nombre de tweets :  21866
+Nombre d'errors :  51
+
+Suppression des tweets déjà vus
+21917 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 03:14:03
+Date 1er retweet :  2020-02-10 23:14:10
+Date Dernier retweet :  2020-02-11 03:45:05
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  4068
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 01:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1494
+Nombre de tweets uniques :  1494
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  6479
+Nombre de lignes rajoutées, statswords :  1785
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  44
+Nombre de tweets :  19208
+Nombre d'errors :  45
+
+Suppression des tweets déjà vus
+19253 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 05:14:03
+Date 1er retweet :  2020-02-11 01:14:30
+Date Dernier retweet :  2020-02-11 04:44:14
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  4068
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 01:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  23257
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+23307 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 05:14:03
+Date 1er retweet :  2020-02-11 01:14:30
+Date Dernier retweet :  2020-02-11 05:45:05
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  4683
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 03:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  504
+Nombre de tweets uniques :  504
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  4146
+Nombre de lignes rajoutées, statswords :  1708
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  29
+Nombre de tweets :  70478
+Nombre d'errors :  30
+
+Suppression des tweets déjà vus
+70508 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 07:14:03
+Date 1er retweet :  2020-02-11 03:14:28
+Date Dernier retweet :  2020-02-11 06:45:16
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2399
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 03:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  504
+Nombre de tweets uniques :  504
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  1
+Nombre de tweets :  123158
+Nombre d'errors :  2
+
+Suppression des tweets déjà vus
+123160 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 07:14:03
+Date 1er retweet :  2020-02-11 03:14:28
+Date Dernier retweet :  2020-02-11 07:45:28
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3310
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 05:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1038
+Nombre de tweets uniques :  1038
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  3952
+Nombre de lignes rajoutées, statswords :  1833
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  95747
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+95748 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 09:14:03
+Date 1er retweet :  2020-02-11 05:14:42
+Date Dernier retweet :  2020-02-11 08:45:22
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2831
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 05:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  79681
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+79682 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 09:14:03
+Date 1er retweet :  2020-02-11 05:14:42
+Date Dernier retweet :  2020-02-11 09:45:18
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3453
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 07:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  339
+Nombre de tweets uniques :  339
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  17007
+Nombre de lignes rajoutées, statswords :  1842
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  72289
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+72290 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 11:14:03
+Date 1er retweet :  2020-02-11 07:14:03
+Date Dernier retweet :  2020-02-11 10:45:19
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2985
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 07:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  339
+Nombre de tweets uniques :  339
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  84948
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+84949 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 11:14:03
+Date 1er retweet :  2020-02-11 07:14:03
+Date Dernier retweet :  2020-02-11 11:45:19
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3435
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 09:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  681
+Nombre de tweets uniques :  681
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  24206
+Nombre de lignes rajoutées, statswords :  1819
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  114235
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+114236 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 13:14:03
+Date 1er retweet :  2020-02-11 09:14:03
+Date Dernier retweet :  2020-02-11 12:45:26
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3009
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 09:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  681
+Nombre de tweets uniques :  681
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  25
+Nombre de tweets :  77309
+Nombre d'errors :  26
+
+Suppression des tweets déjà vus
+77335 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 13:14:03
+Date 1er retweet :  2020-02-11 09:14:03
+Date Dernier retweet :  2020-02-11 13:44:47
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3471
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 11:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1031
+Nombre de tweets uniques :  1031
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  26299
+Nombre de lignes rajoutées, statswords :  2107
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  23119
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+23168 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 15:14:03
+Date 1er retweet :  2020-02-11 11:14:03
+Date Dernier retweet :  2020-02-11 14:44:42
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3079
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 11:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  21292
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+21342 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 15:14:03
+Date 1er retweet :  2020-02-11 11:14:03
+Date Dernier retweet :  2020-02-11 15:45:05
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3572
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 13:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  397
+Nombre de tweets uniques :  397
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  20493
+Nombre de lignes rajoutées, statswords :  2023
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  46
+Nombre de tweets :  20557
+Nombre d'errors :  48
+
+Suppression des tweets déjà vus
+20605 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 17:14:03
+Date 1er retweet :  2020-02-11 13:14:28
+Date Dernier retweet :  2020-02-11 16:44:31
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2815
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 13:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  397
+Nombre de tweets uniques :  397
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  20361
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+20410 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 17:14:03
+Date 1er retweet :  2020-02-11 13:14:28
+Date Dernier retweet :  2020-02-11 17:44:52
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3426
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 15:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  996
+Nombre de tweets uniques :  996
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  13362
+Nombre de lignes rajoutées, statswords :  1948
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  20579
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+20629 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 19:14:03
+Date 1er retweet :  2020-02-11 15:14:12
+Date Dernier retweet :  2020-02-11 18:44:45
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2817
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 15:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  996
+Nombre de tweets uniques :  996
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  20566
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+20616 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 19:14:03
+Date 1er retweet :  2020-02-11 15:14:12
+Date Dernier retweet :  2020-02-11 19:45:07
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3414
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 17:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1584
+Nombre de tweets uniques :  1584
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  5982
+Nombre de lignes rajoutées, statswords :  2026
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  47
+Nombre de tweets :  19897
+Nombre d'errors :  48
+
+Suppression des tweets déjà vus
+19945 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 21:14:03
+Date 1er retweet :  2020-02-11 17:14:55
+Date Dernier retweet :  2020-02-11 20:44:25
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2789
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 17:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  47
+Nombre de tweets :  19313
+Nombre d'errors :  48
+
+Suppression des tweets déjà vus
+19361 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 21:14:03
+Date 1er retweet :  2020-02-11 17:14:55
+Date Dernier retweet :  2020-02-11 21:44:16
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3303
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 19:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  462
+Nombre de tweets uniques :  462
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  1004
+Nombre de lignes rajoutées, statswords :  1645
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  19718
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+19767 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 23:14:03
+Date 1er retweet :  2020-02-11 19:15:04
+Date Dernier retweet :  2020-02-11 22:44:56
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2335
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 19:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  462
+Nombre de tweets uniques :  462
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  47
+Nombre de tweets :  19283
+Nombre d'errors :  48
+
+Suppression des tweets déjà vus
+19331 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-11 23:14:03
+Date 1er retweet :  2020-02-11 19:15:04
+Date Dernier retweet :  2020-02-11 23:44:50
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2859
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 21:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  974
+Nombre de tweets uniques :  974
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  1153
+Nombre de lignes rajoutées, statswords :  1530
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  19875
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+19924 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 01:14:03
+Date 1er retweet :  2020-02-11 21:14:33
+Date Dernier retweet :  2020-02-12 00:45:03
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2255
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 21:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  974
+Nombre de tweets uniques :  974
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  46
+Nombre de tweets :  18195
+Nombre d'errors :  47
+
+Suppression des tweets déjà vus
+18242 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 01:14:03
+Date 1er retweet :  2020-02-11 21:14:33
+Date Dernier retweet :  2020-02-12 01:44:27
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2779
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 23:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1485
+Nombre de tweets uniques :  1485
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  1114
+Nombre de lignes rajoutées, statswords :  1788
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  47
+Nombre de tweets :  19533
+Nombre d'errors :  48
+
+Suppression des tweets déjà vus
+19581 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 03:14:03
+Date 1er retweet :  2020-02-11 23:14:03
+Date Dernier retweet :  2020-02-12 02:44:12
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2157
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-11 23:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  20423
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+20473 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 03:14:03
+Date 1er retweet :  2020-02-11 23:14:03
+Date Dernier retweet :  2020-02-12 03:44:58
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2678
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 01:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  491
+Nombre de tweets uniques :  491
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  969
+Nombre de lignes rajoutées, statswords :  1615
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  20189
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+20239 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 05:14:03
+Date 1er retweet :  2020-02-12 01:14:03
+Date Dernier retweet :  2020-02-12 04:45:04
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2093
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 01:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  491
+Nombre de tweets uniques :  491
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  21448
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+21498 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 05:14:03
+Date 1er retweet :  2020-02-12 01:14:03
+Date Dernier retweet :  2020-02-12 05:44:50
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2595
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 03:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  959
+Nombre de tweets uniques :  959
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  834
+Nombre de lignes rajoutées, statswords :  1553
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  24254
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+24303 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 07:14:03
+Date 1er retweet :  2020-02-12 03:14:45
+Date Dernier retweet :  2020-02-12 06:45:05
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2048
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 03:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  959
+Nombre de tweets uniques :  959
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  13
+Nombre de tweets :  104147
+Nombre d'errors :  14
+
+Suppression des tweets déjà vus
+104161 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 07:14:03
+Date 1er retweet :  2020-02-12 03:14:45
+Date Dernier retweet :  2020-02-12 07:45:23
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2812
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 05:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1479
+Nombre de tweets uniques :  1479
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  2662
+Nombre de lignes rajoutées, statswords :  1839
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  102571
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+102572 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 09:14:03
+Date 1er retweet :  2020-02-12 05:14:15
+Date Dernier retweet :  2020-02-12 08:45:22
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2384
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 05:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  80875
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+80876 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 09:14:03
+Date 1er retweet :  2020-02-12 05:14:15
+Date Dernier retweet :  2020-02-12 09:45:17
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2946
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 07:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  244
+Nombre de tweets uniques :  244
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  13737
+Nombre de lignes rajoutées, statswords :  1846
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  67614
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+67615 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 11:14:03
+Date 1er retweet :  2020-02-12 07:14:03
+Date Dernier retweet :  2020-02-12 10:45:14
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2538
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 07:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  244
+Nombre de tweets uniques :  244
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  76376
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+76377 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 11:14:03
+Date 1er retweet :  2020-02-12 07:14:03
+Date Dernier retweet :  2020-02-12 11:45:16
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2951
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 09:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  460
+Nombre de tweets uniques :  460
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  20554
+Nombre de lignes rajoutées, statswords :  1911
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  107323
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+107324 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 13:14:03
+Date 1er retweet :  2020-02-12 09:14:03
+Date Dernier retweet :  2020-02-12 12:45:23
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2568
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 09:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  460
+Nombre de tweets uniques :  460
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  34
+Nombre de tweets :  56517
+Nombre d'errors :  35
+
+Suppression des tweets déjà vus
+56552 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 13:14:03
+Date 1er retweet :  2020-02-12 09:14:03
+Date Dernier retweet :  2020-02-12 13:45:05
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2810
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 11:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  636
+Nombre de tweets uniques :  636
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  22497
+Nombre de lignes rajoutées, statswords :  1938
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  21881
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+21930 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 15:14:03
+Date 1er retweet :  2020-02-12 11:14:03
+Date Dernier retweet :  2020-02-12 14:44:39
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2556
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 11:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  636
+Nombre de tweets uniques :  636
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  20046
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+20095 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 15:14:03
+Date 1er retweet :  2020-02-12 11:14:03
+Date Dernier retweet :  2020-02-12 15:44:33
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3020
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 13:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1086
+Nombre de tweets uniques :  1086
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  14525
+Nombre de lignes rajoutées, statswords :  2147
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  20220
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+20270 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 17:14:03
+Date 1er retweet :  2020-02-12 13:14:53
+Date Dernier retweet :  2020-02-12 16:45:04
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2390
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 13:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  21173
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+21222 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 17:14:03
+Date 1er retweet :  2020-02-12 13:14:53
+Date Dernier retweet :  2020-02-12 17:44:07
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2954
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 15:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  530
+Nombre de tweets uniques :  530
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  7420
+Nombre de lignes rajoutées, statswords :  2075
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  21114
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+21164 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 19:14:03
+Date 1er retweet :  2020-02-12 15:14:34
+Date Dernier retweet :  2020-02-12 18:44:21
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2334
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 15:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  530
+Nombre de tweets uniques :  530
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  20407
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+20457 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 19:14:03
+Date 1er retweet :  2020-02-12 15:14:34
+Date Dernier retweet :  2020-02-12 19:45:05
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2893
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 17:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1069
+Nombre de tweets uniques :  1069
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  2072
+Nombre de lignes rajoutées, statswords :  2100
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  20905
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+20954 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 21:14:03
+Date 1er retweet :  2020-02-12 17:14:35
+Date Dernier retweet :  2020-02-12 20:44:10
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2238
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 17:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  21311
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+21361 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 21:14:03
+Date 1er retweet :  2020-02-12 17:14:35
+Date Dernier retweet :  2020-02-12 21:45:02
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2853
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 19:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  559
+Nombre de tweets uniques :  559
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  47
+Nombre de tweets :  19215
+Nombre d'errors :  48
+
+Suppression des tweets déjà vus
+19263 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 23:14:03
+Date 1er retweet :  2020-02-12 19:14:16
+Date Dernier retweet :  2020-02-12 22:44:54
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2294
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 19:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  559
+Nombre de tweets uniques :  559
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  1019
+Nombre de lignes rajoutées, statswords :  1928
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  47
+Nombre de tweets :  20073
+Nombre d'errors :  48
+
+Suppression des tweets déjà vus
+20121 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-12 23:14:03
+Date 1er retweet :  2020-02-12 19:14:16
+Date Dernier retweet :  2020-02-12 23:44:25
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2885
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 21:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1124
+Nombre de tweets uniques :  1124
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  1043
+Nombre de lignes rajoutées, statswords :  1964
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  20185
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+20234 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 01:14:03
+Date 1er retweet :  2020-02-12 21:14:46
+Date Dernier retweet :  2020-02-13 00:44:25
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2352
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 21:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  47
+Nombre de tweets :  19554
+Nombre d'errors :  48
+
+Suppression des tweets déjà vus
+19602 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 01:14:03
+Date 1er retweet :  2020-02-12 21:14:46
+Date Dernier retweet :  2020-02-13 01:44:48
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2918
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 23:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  484
+Nombre de tweets uniques :  484
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  1023
+Nombre de lignes rajoutées, statswords :  1916
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  47
+Nombre de tweets :  19759
+Nombre d'errors :  48
+
+Suppression des tweets déjà vus
+19807 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 03:14:03
+Date 1er retweet :  2020-02-12 23:14:03
+Date Dernier retweet :  2020-02-13 02:44:30
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2358
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-12 23:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  484
+Nombre de tweets uniques :  484
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  20452
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+20502 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 03:14:03
+Date 1er retweet :  2020-02-12 23:14:03
+Date Dernier retweet :  2020-02-13 03:45:02
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2906
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 01:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1004
+Nombre de tweets uniques :  1004
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  1078
+Nombre de lignes rajoutées, statswords :  1934
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  21120
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+21170 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 05:14:03
+Date 1er retweet :  2020-02-13 01:14:03
+Date Dernier retweet :  2020-02-13 04:45:04
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2325
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 01:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  47
+Nombre de tweets :  24327
+Nombre d'errors :  48
+
+Suppression des tweets déjà vus
+24375 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 05:14:03
+Date 1er retweet :  2020-02-13 01:14:03
+Date Dernier retweet :  2020-02-13 05:44:36
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2884
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 03:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  404
+Nombre de tweets uniques :  404
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  1021
+Nombre de lignes rajoutées, statswords :  1836
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  23
+Nombre de tweets :  85011
+Nombre d'errors :  24
+
+Suppression des tweets déjà vus
+85035 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 07:14:03
+Date 1er retweet :  2020-02-13 03:14:15
+Date Dernier retweet :  2020-02-13 06:45:18
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2277
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 03:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  404
+Nombre de tweets uniques :  404
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  112883
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+112884 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 07:14:03
+Date 1er retweet :  2020-02-13 03:14:15
+Date Dernier retweet :  2020-02-13 07:45:25
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3119
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 05:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  841
+Nombre de tweets uniques :  841
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  3950
+Nombre de lignes rajoutées, statswords :  1716
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  84102
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+84103 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 09:14:03
+Date 1er retweet :  2020-02-13 05:14:55
+Date Dernier retweet :  2020-02-13 08:45:18
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2623
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 05:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  841
+Nombre de tweets uniques :  841
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  66001
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+66002 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 09:14:03
+Date 1er retweet :  2020-02-13 05:14:55
+Date Dernier retweet :  2020-02-13 09:45:13
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3195
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 07:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1185
+Nombre de tweets uniques :  1185
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  18095
+Nombre de lignes rajoutées, statswords :  2003
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  58769
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+58770 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 11:14:03
+Date 1er retweet :  2020-02-13 07:14:03
+Date Dernier retweet :  2020-02-13 10:45:12
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2755
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 07:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  68718
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+68719 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 11:14:03
+Date 1er retweet :  2020-02-13 07:14:03
+Date Dernier retweet :  2020-02-13 11:45:16
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3172
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 09:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  179
+Nombre de tweets uniques :  179
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  23883
+Nombre de lignes rajoutées, statswords :  2046
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Aucune Error 420
+Nombre de tweets :  100522
+Nombre d'errors :  1
+
+Suppression des tweets déjà vus
+100523 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 13:14:03
+Date 1er retweet :  2020-02-13 09:14:03
+Date Dernier retweet :  2020-02-13 12:45:22
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2785
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 09:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  179
+Nombre de tweets uniques :  179
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  15
+Nombre de tweets :  99290
+Nombre d'errors :  16
+
+Suppression des tweets déjà vus
+99306 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 13:14:03
+Date 1er retweet :  2020-02-13 09:14:03
+Date Dernier retweet :  2020-02-13 13:45:21
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3251
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 11:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  491
+Nombre de tweets uniques :  491
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  26057
+Nombre de lignes rajoutées, statswords :  2073
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  47
+Nombre de tweets :  24679
+Nombre d'errors :  48
+
+Suppression des tweets déjà vus
+24727 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 15:14:03
+Date 1er retweet :  2020-02-13 11:14:03
+Date Dernier retweet :  2020-02-13 14:44:59
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2935
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 11:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  491
+Nombre de tweets uniques :  491
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  20832
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+20881 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 15:14:03
+Date 1er retweet :  2020-02-13 11:14:03
+Date Dernier retweet :  2020-02-13 15:44:13
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3433
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 13:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  975
+Nombre de tweets uniques :  975
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  24894
+Nombre de lignes rajoutées, statswords :  1992
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  45
+Nombre de tweets :  18645
+Nombre d'errors :  47
+
+Suppression des tweets déjà vus
+18692 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 17:14:03
+Date 1er retweet :  2020-02-13 13:14:03
+Date Dernier retweet :  2020-02-13 16:43:46
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2704
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 13:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  975
+Nombre de tweets uniques :  975
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  50
+Nombre de tweets :  20787
+Nombre d'errors :  51
+
+Suppression des tweets déjà vus
+20838 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 17:14:03
+Date 1er retweet :  2020-02-13 13:14:03
+Date Dernier retweet :  2020-02-13 17:44:58
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3364
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 15:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+1
+2
+Nombre graph rajoutés :  2
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  1623
+Nombre de tweets uniques :  1623
+Le traitement commence
+Lancement de la mise à jour TFIDF
+1 / 1
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  2
+Nombre de lignes rajoutées, links :  19680
+Nombre de lignes rajoutées, statswords :  2022
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  49
+Nombre de tweets :  20811
+Nombre d'errors :  50
+
+Suppression des tweets déjà vus
+20861 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 19:14:03
+Date 1er retweet :  2020-02-13 15:14:38
+Date Dernier retweet :  2020-02-13 18:45:00
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2820
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 15:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Calcul de stats pour les logs
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  20004
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+20053 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 19:14:03
+Date 1er retweet :  2020-02-13 15:14:38
+Date Dernier retweet :  2020-02-13 19:44:31
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  1
+
+Sauvegarde du dictionnaire tmdic et des dataframes Finalx
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3489
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 17:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  607
+Nombre de tweets uniques :  607
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  48
+Nombre de tweets :  20585
+Nombre d'errors :  49
+
+Suppression des tweets déjà vus
+20634 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 21:14:03
+Date 1er retweet :  2020-02-13 17:14:21
+Date Dernier retweet :  2020-02-13 20:44:43
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  3489
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 17:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  607
+Nombre de tweets uniques :  607
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+
+
+
+   * * *   Lancement du BuildBatch.py   * * *   
+
+Chargement du fichier de config
+
+Error 420 :  12
+Nombre de tweets :  5121
+Nombre d'errors :  13
+
+Suppression des tweets déjà vus
+5134 Lignes correctement supprimées
+
+Conversion des tweets vus en dataframe
+
+Suppression des erreurs éventuelles
+
+Construction des dataframes simples et retweets
+
+Construction du batch influenceurs
+
+Construction du batch retweets
+
+Construction du batch des tweets repris
+
+Sauvegarde des batchs dataframes sur le disque dur
+
+Ecriture des logs
+
+   * * *   Lancement du BuildRef.py   * * *   
+
+Chargement du fichier de config
+
+Load Dataframes
+
+Construction de RefRT, table des retweets
+
+Construction de RefFam, table des tweets repris
+
+Construction de RefInf, table des auteurs
+
+Format des logs
+
+Ecriture des logs
+
+   * * *   Lancement du BatchBest.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Calcul des statistiques pour les logs
+
+Informations quant aux prochains time mark
+Date du du potentiel next Time Mark :  2020-02-13 23:14:03
+Date 1er retweet :  2020-02-13 19:14:15
+Date Dernier retweet :  2020-02-13 21:45:00
+
+
+Début de l'Analytics ...
+Nombre de batch rajoutés :  0
+
+Vérification cohérence
+Fichier cohérent True
+taille :  2476
+
+Valeur du seuil en dessous duquel on peut supprimer une partie de la table RefRT:
+2020-02-13 19:14:03
+
+Modification de RefRT, table de référence des retweets
+
+Modification du fichier RefFam, table de référence des tweets repris
+
+Ecriture des logs
+
+   * * *   Lancement du Graph.py   * * *   
+
+Chargement du fichier config
+
+Chargement des données
+
+Lancement de la partie Analytics ...
+Nombre graph rajoutés :  0
+
+Enregistrement du dictionnaire gdic
+
+Nettoyage du dataframe FinalRT
+
+Calcul des statistiques pour les logs
+
+Ecriture des logs
+
+   * * *   Lancement du ComputeTFIDF.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Construction de tweets analyse dataframe
+
+Instanciation d'un objet corpus
+Chargement des données corpus
+Processing des nouvelles données
+Nombre de retweets à traier :  0
+Nombre de tweets uniques :  0
+Pas assez de tweets à traiter, réessayer un autre moment
+Lancement de la mise à jour TFIDF
+Enregistrement des données sur le disque
+
+Ecriture des logs
+
+   * * *   Lancement de Prerequisites.py   * * *   
+
+Chargement du fichier config
+
+Chargement des donnés
+
+Chargement des fonctions
+
+Sauvegarde des fichiers PRQ, input de l'app Shiny
+Nombre de dataframes rajoutés :  0
+Nombre de lignes rajoutées, links :  0
+Nombre de lignes rajoutées, statswords :  0
+
+Ecriture des logs
+
